@@ -5,7 +5,7 @@
   "exposable": true,
   "port": 8756,
   "tipi_version": 37,
-  "version": "1.4.4",
+  "version": "1.4.6",
   "id": "homepage",
   "categories": ["utilities"],
   "description": "A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages.",
